@@ -1,0 +1,11 @@
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\bin\Debug\Zad1.exe.config
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\bin\Debug\Zad1.exe
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\bin\Debug\Zad1.pdb
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\bin\Debug\Zad1.Core.dll
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\bin\Debug\Zad1.Core.pdb
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\obj\Debug\Zad1.csprojResolveAssemblyReference.cache
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\obj\Debug\Zad1.Form1.resources
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\obj\Debug\Zad1.Properties.Resources.resources
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\obj\Debug\Zad1.csproj.GenerateResource.Cache
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\obj\Debug\Zad1.exe
+D:\33InfA\Pieniazek\Lista3\Zad1\Zad1\obj\Debug\Zad1.pdb
